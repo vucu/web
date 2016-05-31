@@ -1,0 +1,44 @@
+body {
+    font-family:Helvetica;
+    background:#669966;
+    background-size:cover;
+    background-position:center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color:black;
+	width:600px
+}
+
+h1 {
+    font-size: 42px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 24px;
+}
+
+li {
+    font-size: 18px;
+}
+
+input {
+    border: 0;
+    padding: 12px;
+    font-size: 18px;
+}
+    
+input[type="submit"] {
+    color:black;
+}
+
+.glyphicon {
+	color: #FFCF79;
+}
